@@ -18,3 +18,36 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 4. Refer to the [criteria and guide](criteria-and-guide.md) for the different components of your submission.
 ---
 _Your study and submission work here..._
+
+**Section 1: Capacitors**
+
+
+
+**Section 2: Logic Level Converter**
+
+
+
+**Section 3: Clock Signal**
+
+
+
+**Section 4: Tie-Dye Flip Flop**
+
+
+
+**Section 5: Reading Flip Flop Output**
+
+
+
+**Section 6: 3-bit Modulus Counter**
+
+
+
+**Section 7: Display Decoded Counter Output
+
+
+
+**Section 8: Flip Flop Control Signals**
+
+
+
